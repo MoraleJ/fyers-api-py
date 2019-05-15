@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: fyers-api
+Version: 1.0.4
+Summary: Fyers data and trading APIs.
+Home-page: https://github.com/FyersDev/fyers-api-py
+Author: Fyers-Tech
+Author-email: support@fyers.in
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

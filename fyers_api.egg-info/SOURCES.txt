@@ -1,0 +1,12 @@
+README.md
+setup.py
+fyers_api/__init__.py
+fyers_api/accessToken.py
+fyers_api/config.py
+fyers_api/fyersFormation.py
+fyers_api/fyersModel.py
+fyers_api/fyersService.py
+fyers_api.egg-info/PKG-INFO
+fyers_api.egg-info/SOURCES.txt
+fyers_api.egg-info/dependency_links.txt
+fyers_api.egg-info/top_level.txt
