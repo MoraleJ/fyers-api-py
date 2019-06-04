@@ -2,6 +2,8 @@ class Config:
     Api = "https://api.fyers.in/api/v1"
     DataApi = "https://data.fyers.in/data-api/v1"
 
+
+    get_profile = '/get_profile'
     tradebook = '/tradebook'
     positions = '/positions'
     holdings = '/holdings'

@@ -12,6 +12,10 @@ class FyersModel:
 		else:
 			self.service = FyersAsyncService()
 
+	def get_profile(self,token):
+		response = self.service.getCall(Config.get_profile,token)		
+		return response
+
 	def tradebook(self,token):
 		response = self.service.getCall(Config.tradebook,token)		
 		return response
